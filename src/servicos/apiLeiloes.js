@@ -1,8 +1,8 @@
 import axios from 'axios';
 
-// create axios
+// Use seu IP local
 const instance = axios.create({
-  baseURL: 'http://192.168.1.10:3000/',
+  baseURL: 'http://192.168.1.14:3000/',
   timeout: 1000,
 });
 

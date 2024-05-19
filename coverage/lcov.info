@@ -16,7 +16,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:src\componentes\Cartao.js
+SF:src/componentes/Cartao.js
 FN:5,Cartao
 FNF:1
 FNH:0
@@ -30,7 +30,7 @@ BRF:1
 BRH:0
 end_of_record
 TN:
-SF:src\componentes\Icone.js
+SF:src/componentes/Icone.js
 FN:6,Icone
 FN:14,(anonymous_1)
 FNF:2
@@ -50,7 +50,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:src\hooks\useLeilao.js
+SF:src/hooks/useLeilao.js
 FN:8,useLeilao
 FN:11,(anonymous_1)
 FN:17,(anonymous_2)
@@ -95,7 +95,7 @@ BRF:6
 BRH:0
 end_of_record
 TN:
-SF:src\hooks\useListaLeiloes.js
+SF:src/hooks/useListaLeiloes.js
 FN:4,useListaLeiloes
 FN:7,(anonymous_1)
 FN:12,(anonymous_2)
@@ -117,7 +117,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\negocio\constantes\estadosLance.js
+SF:src/negocio/constantes/estadosLance.js
 FNF:0
 FNH:0
 DA:1,0
@@ -132,7 +132,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\negocio\formatadores\lance.js
+SF:src/negocio/formatadores/lance.js
 FN:1,formataMaiorLanceDoLeilao
 FN:3,(anonymous_1)
 FNF:2
@@ -150,7 +150,7 @@ BRF:2
 BRH:0
 end_of_record
 TN:
-SF:src\negocio\formatadores\moeda.js
+SF:src/negocio/formatadores/moeda.js
 FN:1,formataDecimalParaReal
 FN:8,formataBrasileiroParaDecimal
 FNF:2
@@ -166,7 +166,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\negocio\validadores\lance.js
+SF:src/negocio/validadores/lance.js
 FN:8,validaFormatoNumericoDoLance
 FN:16,validaLance
 FN:31,validaLanceMaiorOuIgualAoInicial
@@ -212,7 +212,7 @@ BRF:10
 BRH:0
 end_of_record
 TN:
-SF:src\repositorio\lance.js
+SF:src/repositorio/lance.js
 FN:3,obtemLancesDoLeilao
 FN:12,adicionaLance
 FNF:2
@@ -233,7 +233,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\repositorio\leilao.js
+SF:src/repositorio/leilao.js
 FN:3,obtemLeiloes
 FN:12,obtemLeilao
 FNF:2
@@ -254,7 +254,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\rotas\AppRotas.js
+SF:src/rotas/AppRotas.js
 FN:10,AppRotas
 FNF:1
 FNH:0
@@ -267,7 +267,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\servicos\apiLeiloes.js
+SF:src/servicos/apiLeiloes.js
 FNF:0
 FNH:0
 DA:4,0
@@ -277,7 +277,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\telas\Leilao\index.js
+SF:src/telas/Leilao/index.js
 FN:10,Leilao
 FN:17,(anonymous_1)
 FN:25,(anonymous_2)
@@ -322,7 +322,7 @@ BRF:4
 BRH:0
 end_of_record
 TN:
-SF:src\telas\Leilao\componentes\EnviaLance.js
+SF:src/telas/Leilao/componentes/EnviaLance.js
 FN:7,EnviaLance
 FN:15,(anonymous_1)
 FN:52,(anonymous_2)
@@ -366,7 +366,7 @@ BRF:12
 BRH:0
 end_of_record
 TN:
-SF:src\telas\Leilao\componentes\Lance.js
+SF:src/telas/Leilao/componentes/Lance.js
 FN:9,Lance
 FNF:1
 FNH:0
@@ -379,7 +379,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\telas\Leilao\componentes\Topo.js
+SF:src/telas/Leilao/componentes/Topo.js
 FN:9,Topo
 FNF:1
 FNH:0
@@ -393,7 +393,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\telas\ListaLeiloes\index.js
+SF:src/telas/ListaLeiloes/index.js
 FN:7,ListaLeiloes
 FN:11,(anonymous_1)
 FN:20,(anonymous_2)
@@ -420,7 +420,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src\telas\ListaLeiloes\componentes\Leilao.js
+SF:src/telas/ListaLeiloes/componentes/Leilao.js
 FN:10,Leilao
 FN:15,(anonymous_1)
 FNF:2
